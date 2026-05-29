@@ -1,0 +1,3 @@
+[submodule "autoresearch-master"]
+	path = autoresearch-master
+	url = https://github.com/minf417-ops/autoresearch-master.git
